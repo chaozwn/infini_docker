@@ -1,4 +1,4 @@
-# InfiniSynapse Introduction 
+# InfiniSynapse Introduction
 
 InfiniSynapse 通过自研的第二代LLM-Native RAG实现了精准的业务理解，以及Schema召回。提供专门为大模型优化的InfiniSQL语言，从而可以更加准确的生成查询语句，通过 InfiniSQL 引擎让人类第一次对存储在各种数据源的全模态（数据库结构化，文档，语音，视频）进行联合智能分析，并且支持海量规模。
 

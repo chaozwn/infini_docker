@@ -5,4 +5,4 @@ auto-coder
 **/.cache
 docker/infini-sql/app
 docker/infini-sql/app
-
+.idea
