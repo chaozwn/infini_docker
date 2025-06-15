@@ -36,7 +36,7 @@ docker-compose down
 
 # 联系我们
 
-![InfiniSynapse 官方微信群](./images/wechat.png)
+![InfiniSynapse 官方微信群](./images/wechat.jpg)
 
 
 
