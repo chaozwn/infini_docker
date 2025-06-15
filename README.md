@@ -9,6 +9,12 @@ InfiniSynapse 通过自研的第二代LLM-Native RAG实现了精准的业务理�
 1. 给世界上所有企业提供世界上最好，最便宜，最智能的企业级数据分析服务。
 2. 让每个数据相关从业者每周使用40小时以上
 
+# Requirements
+
+你需要从飞书上下载engine的安装包，解压后放到当前`docker/infini-sql`目录下。
+
+![InfiniSynapse Architecture](./images/app-engine.png)
+
 # Quick Start
 
 ## start
