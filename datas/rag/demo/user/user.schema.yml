@@ -1,0 +1,6 @@
+datasource:
+    type: file
+    name: user_real_name_dim
+    schema: |
+        `phone`: STRING Primary Key -- 跨平台的身份标识 
+        `real_name`: STRING

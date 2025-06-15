@@ -1,0 +1,101 @@
+id,product_name,product_price,product_category,product_subcategory,color,launch_date,is_active
+1,Fashionable Fanny Pack,24.99,Clothing - Accessories,Bags,Goldenrod,5/6/2025,true
+2,Teriyaki Chicken Skewers,8.99,Food - Meat,Marinated Meats,Crimson,12/26/2024,false
+3,Non-Toxic Concrete Sealer,39.99,Home Improvement,Exterior Sealers,Maroon,10/21/2024,false
+4,Weighted Jump Rope with Counter,14.99,Fitness,Cardio Equipment,Blue,11/14/2024,true
+5,Himalayan Pink Salt,1.99,Food - Condiments,Specialty Salts,Khaki,9/19/2024,true
+6,Chili Lime Corn Chips,2.79,Food - Snacks,Savory Snacks,Mauv,12/13/2024,true
+7,Dried Mango Slices,3.49,Food - Snacks,Dried Fruits,Goldenrod,11/6/2024,false
+8,Sour Cream,3.49,Food - Dairy,Dairy Spreads,Purple,7/5/2024,true
+9,Arcade Game Machine,299.99,Gaming,Arcade Machines & Cabinets,Goldenrod,8/9/2024,true
+10,Diced Tomatoes (canned),1.49,Food - Canned Goods,Canned Vegetables,Crimson,3/17/2025,false
+11,Sweet Potato Chips,2.99,Food - Snacks,Savory Snacks,Crimson,9/12/2024,true
+12,Peanut Butter Chocolate Clusters,2.99,Food - Desserts,Chocolate Desserts,Maroon,2/19/2025,false
+13,Knitted Infinity Scarf,29.99,Clothing - Accessories,Scarves,Teal,7/31/2024,true
+14,Kids' STEM Robotics Kit,59.99,Toys,Educational Toys,Orange,9/13/2024,true
+15,Fleece Hoodie,39.99,Clothing - Outerwear,Hoodies,Fuscia,5/16/2025,false
+16,Stainless Steel Grater,14.99,Kitchen,Kitchen Gadgets,Khaki,4/4/2025,false
+17,Outdoor Folding Table,39.99,Outdoor,Outdoor Furniture,Turquoise,1/31/2025,true
+18,Winter Knit Beanie,14.99,Clothing,Hats & Headwear,Red,7/27/2024,true
+19,Karaoke Microphone,39.99,Music,Audio Equipment,Violet,8/11/2024,false
+20,Kids' Gardening Tools Set,22.99,Toys,Outdoor Play Toys,Violet,8/23/2024,true
+21,Cotton Quilted Throw Blanket,39.99,Home,Bedding & Linens,Mauv,12/28/2024,false
+22,Mini Air Hockey Table,39.99,Toys,Miniature Sports Games,Orange,5/19/2025,false
+23,Silicone Cooking Utensils Set,34.99,Kitchen,Cooking Tools & Utensils,Red,12/29/2024,false
+24,Garden Hose Reel,49.99,Garden,Garden Tools,Red,11/28/2024,false
+25,Car Sunshade,19.99,Automotive,Automotive Accessories,Turquoise,5/12/2025,false
+26,Multi-Layer Food Steamer,39.99,Kitchen,Cooking Appliances,Orange,7/11/2024,false
+27,Compact Shoe Rack,34.99,Home,Home Furnishings,Green,11/17/2024,true
+28,Electric Wax Warmer,22.99,Home,Home Fragrance & Accessories,Blue,9/3/2024,true
+29,Chocolate Mint Protein Shake,3.99,Food - Beverages,Health Drinks,Pink,8/25/2024,true
+30,Roasted Garlic Pasta Sauce,4.99,Food - Sauces,Pasta Sauces,Crimson,10/15/2024,false
+31,Pet Water Fountain with Filtration,39.99,Pets,Pet Supplies,Green,12/1/2024,false
+32,Kids' Craft Supplies Set,24.99,Toys,Creative Arts & Crafts,Crimson,6/9/2025,false
+33,Wall-Mounted Wine Rack,39.99,Home,Wine Storage Solutions,Turquoise,2/1/2025,true
+34,Customizable Wall Calendar,24.99,Office,Office Supplies,Turquoise,1/20/2025,false
+35,Plant-Based Cookbook,29.99,Books,Cookbooks & Nutrition,Maroon,12/26/2024,true
+36,Classic BBQ Sauce,2.79,Food - Condiments,BBQ Sauces,Crimson,6/22/2024,true
+37,Garlic and Herb Rub,2.29,Food - Spices,Herb Blends,Turquoise,11/20/2024,true
+38,Children's Art Set,34.99,Toys,Creative Toys,Fuscia,4/27/2025,true
+39,Spiced Pumpkin Soup,3.99,Food - Canned Soups,Soups,Turquoise,10/9/2024,true
+40,Roasted Garlic Pasta Sauce,4.99,Food - Sauces,Pasta Sauces,Purple,9/8/2024,true
+41,Tuscan Bean Soup,2.49,Food - Canned Goods,Soups & Broths,Goldenrod,5/14/2025,false
+42,Bamboo Cutting Board Set,34.99,Kitchen,Kitchen Gadgets,Maroon,2/5/2025,true
+43,Natural Soy Candles,19.99,Home,Home Fragrance & Accessories,Violet,9/3/2024,true
+44,Bodyweight Resistance Bands,22.99,Fitness,Strength Training Equipment,Purple,12/23/2024,false
+45,Faux Leather Leggings,49.99,Clothing - Pants,Leggings,Mauv,4/24/2025,false
+46,Stainless Steel Water Pitcher,39.99,Kitchen,Drinkware,Maroon,9/14/2024,true
+47,Compressed Towel Tablets,12.99,Travel,Travel Accessories,Aquamarine,3/4/2025,false
+48,Faux Leather Leggings,49.99,Clothing - Pants,Leggings,Green,6/7/2025,false
+49,Silicone Baking Mats,19.99,Kitchen,Baking Accessories,Puce,11/21/2024,false
+50,Coconut Flakes,3.29,Food - Baking,Baking Ingredients,Orange,6/18/2024,true
+51,Children's Educational Workbook,12.99,Books,Children's Educational Books,Fuscia,6/29/2024,true
+52,Plant-Based Meal Prep Containers,18.99,Kitchen,Food Storage Solutions,Goldenrod,9/2/2024,false
+53,LED Flashlight with Rechargeable Batteries,19.99,Outdoor,Camping Equipment,Green,8/5/2024,true
+54,Cheese Stuffed Jalapenos,5.99,Food - Snacks,Savory Snacks,Yellow,8/24/2024,true
+55,Vegetarian Stir Fry Sauce,2.49,Food - Condiments,Marinades and Sauces,Maroon,9/12/2024,true
+56,Electric Air Pump,29.99,Outdoor,Inflation Equipment,Pink,3/8/2025,true
+57,Portable Campfire,39.99,Outdoor,Camping Equipment,Fuscia,6/2/2025,true
+58,Outdoor Folding Table,39.99,Outdoor,Outdoor Furniture,Mauv,2/25/2025,false
+59,Fashionable Fanny Pack,24.99,Clothing - Accessories,Bags,Aquamarine,7/7/2024,true
+60,Karaoke Microphone,39.99,Music,Audio Equipment,Maroon,12/2/2024,true
+61,Car Diagnostic Scanner,49.99,Automotive,Automotive Tools,Crimson,3/16/2025,true
+62,LED Desk Lamp with USB Charging,39.99,Office,Lighting,Orange,2/14/2025,true
+63,Microfiber Cleaning Cloth Set,9.99,Home,Home Organization,Aquamarine,9/28/2024,true
+64,Hiking Boots,79.99,Footwear,Outdoor Footwear,Goldenrod,6/26/2024,false
+65,Wireless HDMI Transmitter,79.99,Electronics,Audio & Video Accessories,Mauv,6/8/2025,false
+66,Arcade Game Machine,299.99,Gaming,Arcade Machines & Cabinets,Orange,10/3/2024,false
+67,Memory Foam Mattress Pad,69.99,Home,Bedding & Linens,Goldenrod,7/11/2024,true
+68,Sweet Potato and Chickpea Bowl,6.49,Food - Frozen Food,Frozen Meals,Red,6/6/2025,true
+69,Cheesy Broccoli Soup Mix,2.99,Food - Soups,Creamy Soups,Yellow,4/24/2025,false
+70,Dried Fruit Medley,5.49,Food - Snacks,Sweet Snacks,Orange,7/11/2024,false
+71,Greek Yogurt Parfait,4.49,Food - Dairy,Yogurt,Blue,9/17/2024,true
+72,Black Bean Salsa,3.49,Food - Snacks,Salsas and Dips,Green,7/15/2024,false
+73,Eggs (dozen),2.99,Food - Dairy,Eggs,Turquoise,8/30/2024,true
+74,Frozen Broccoli,2.49,Food - Frozen,Frozen Vegetables,Khaki,6/12/2025,true
+75,Set of Herb Garden Markers,8.99,Garden,Garden Decor,Turquoise,1/24/2025,false
+76,Wall-Mounted Organizer,34.99,Home,Home Organization,Violet,5/20/2025,true
+77,Skincare Fridge,39.99,Beauty,Skincare,Pink,9/25/2024,true
+78,Basketball,29.99,Sports,Team Sports,Red,7/7/2024,true
+79,Multi-Cooker,89.99,Kitchen,Cooking Appliances,Red,2/22/2025,true
+80,Zucchini,0.79,Food - Produce,Vegetables,Crimson,2/25/2025,false
+81,Wireless Charging Pad,19.99,Accessories,Mobile Accessories,Teal,3/17/2025,false
+82,Organic Green Apples,1.49,Food - Produce,Fruits,Blue,1/23/2025,true
+83,Paprika,1.79,Food - Spices,Dried Spices,Teal,4/1/2025,false
+84,Warm Knit Beanie,19.99,Clothing - Accessories,Headwear,Turquoise,3/2/2025,true
+85,Lemon Lime Sparkling Water,1.99,Food - Beverages,Sparkling Beverages,Red,10/15/2024,true
+86,Creamy Avocado Dip,3.49,Food - Snacks,Dips and Spreads,Blue,6/9/2025,true
+87,Set of Silicone Cooking Utensils,29.99,Kitchen,Cooking Tools & Utensils,Aquamarine,5/7/2025,true
+88,Potato Wedge Seasoning,2.49,Food - Condiments,Seasoning Blends,Puce,4/24/2025,true
+89,Pet Travel Backpack Carrier,49.99,Pets,Travel Accessories,Goldenrod,9/22/2024,true
+90,Green Tea Matcha Powder,15.99,Food - Beverages,Tea,Blue,12/14/2024,false
+91,Thai Red Curry Paste,3.99,Food - Condiments,Asian Condiments,Maroon,6/11/2025,true
+92,Spinach and Cheese Stuffed Shells,5.99,Food - Frozen Meals,Frozen Pasta Dishes,Maroon,6/17/2024,true
+93,Ginger Tea,4.99,Food - Beverages,Herbal Tea,Yellow,4/27/2025,true
+94,Reusable Silicone Food Storage Bags,19.99,Kitchen,Food Storage Solutions,Goldenrod,5/17/2025,false
+95,Chili Con Carne Mix,2.99,Food - Spices & Seasonings,Seasoning Mixes,Maroon,6/23/2024,true
+96,Bicycle Repair Kit,14.99,Outdoor,Cycling Accessories,Fuscia,5/21/2025,true
+97,Spicy Vegetable Sushi Rolls,8.49,Food - Prepared Foods,Vegetarian Meals,Crimson,3/6/2025,false
+98,Frozen Vegetarian Pizza,6.49,Food - Frozen Meals,Frozen Vegetarian Meals,Green,5/6/2025,false
+99,Magnetic Spice Jars,24.99,Kitchen,Kitchen Storage & Organization,Violet,11/26/2024,true
+100,Ergonomic Gaming Chair,199.99,Gaming,Gaming Accessories,Purple,1/7/2025,false
