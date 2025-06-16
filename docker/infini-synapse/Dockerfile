@@ -22,9 +22,6 @@ RUN apt-get install -y \
 
 # 安装Python 3.10+
 RUN apt-get install -y software-properties-common \
-  && add-apt-repository ppa:deadsnakes/ppa -y \
-  && apt-get update \
-  && apt-get install -y \
   python3.11 \
   python3-pip \
   python3.11-dev \
