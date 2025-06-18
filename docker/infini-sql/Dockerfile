@@ -6,9 +6,9 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # 设置工作目录
 WORKDIR /app
-# 替换为阿里云源
-RUN sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list && \
-  sed -i 's/security.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list && \
+# 替换为清华源
+RUN sed -i 's/archive.ubuntu.com/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.list && \
+  sed -i 's/security.ubuntu.com/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.list && \
   apt-get update
 
 # 更新包列表并安装基础依赖
@@ -17,12 +17,10 @@ RUN apt-get install -y \
   wget \
   unzip \
   git \
-  build-essential \
-  software-properties-common 
+  build-essential 
 
 # 安装Python 3.10+
-RUN apt-get install -y software-properties-common \
-  python3.11 \
+RUN apt-get install -y python3.11 \
   python3-pip \
   python3.11-dev \
   python3-setuptools \
