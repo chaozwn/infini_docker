@@ -82,6 +82,7 @@
     "helmet": "^7.1.0",
     "ioredis": "^5.4.1",
     "lodash": "^4.17.21",
+    "json-bigint": "^1.0.0",
     "mysql2": "^3.14.1",
     "nanoid": "^3.3.7",
     "nestjs-cls": "^4.4.1",
@@ -103,11 +104,14 @@
     "ua-parser-js": "^1.0.39",
     "winston": "^3.14.2",
     "winston-daily-rotate-file": "^5.0.0",
-    "zod": "^3.24.2"
+    "zod": "^3.24.2",
+    "zod-to-json-schema": "^3.24.5",
+    "zod-validation-error": "^3.5.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.7.3",
     "@compodoc/compodoc": "^1.1.25",
+    "@types/json-bigint": "^1.0.4",
     "@nestjs/cli": "^10.4.5",
     "@nestjs/schematics": "^10.1.4",
     "@nestjs/testing": "^10.4.4",
