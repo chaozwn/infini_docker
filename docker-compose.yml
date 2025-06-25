@@ -22,19 +22,6 @@ services:
     networks:
       - infini_synapse_net
 
-  redis:
-    image: redis:alpine
-    container_name: infini-synapse-redis-prod
-    restart: always
-    env_file:
-      - .env
-    ports:
-      - "6379"
-    command: >
-      --requirepass ${REDIS_PASSWORD}
-    networks:
-      - infini_synapse_net
-
   infini-synapse:
     # build: 从当前路径构建镜像
     build:
@@ -49,7 +36,6 @@ services:
       - "${APP_PORT}:${APP_PORT}"
     depends_on:
       - mysql
-      - redis
     volumes:
       - ./datas/:/app/datas/
       - ./auto-coder/:/root/.auto-coder/
