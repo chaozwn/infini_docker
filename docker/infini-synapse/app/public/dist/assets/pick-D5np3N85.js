@@ -1,0 +1,1 @@
+import{cm as c,cn as f,co as l,cp as o}from"./index-Bg7aZkAR.js";import{h as m}from"./useRefs-Bxuk2uoP.js";function h(n,r,t){for(var a=-1,u=r.length,s={};++a<u;){var e=r[a],i=c(n,e);t(i,e)&&f(s,l(e,n),i)}return s}function k(n,r){return h(n,r,function(t,a){return m(n,a)})}var P=o(function(n,r){return n==null?{}:k(n,r)});export{P as p};
