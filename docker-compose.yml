@@ -37,6 +37,7 @@ services:
     depends_on:
       - mysql
     volumes:
+      - ./upload:/app/public/upload
       - ./datas/:/app/datas/
       - ./auto-coder/:/root/.auto-coder/
     networks:
@@ -52,6 +53,7 @@ services:
       - "9003:9003"
     restart: always
     volumes:
+      - ./upload:/app/public/upload
       - ./docker/infini-sql/app/logs/:/app/logs/
       - ./datas/:/app/datas/
       - ./auto-coder/:/root/.auto-coder/
