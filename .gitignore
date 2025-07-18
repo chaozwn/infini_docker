@@ -12,3 +12,4 @@ infinisynapse_release
 build_release.sh
 infinisynapse_release.zip
 datas/rag/buildin
+upload/*
