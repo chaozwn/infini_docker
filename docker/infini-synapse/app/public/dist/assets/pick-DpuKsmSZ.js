@@ -1,1 +1,0 @@
-import{cl as c,cm as f,cn as l,co as o}from"./index-f6N2PmCM.js";import{h as m}from"./useRefs-BkCdOs58.js";function h(n,r,t){for(var a=-1,u=r.length,s={};++a<u;){var e=r[a],i=c(n,e);t(i,e)&&f(s,l(e,n),i)}return s}function k(n,r){return h(n,r,function(t,a){return m(n,a)})}var g=o(function(n,r){return n==null?{}:k(n,r)});export{g as p};
